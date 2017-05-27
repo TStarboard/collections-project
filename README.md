@@ -1,12 +1,15 @@
-# Basic Project
-## Basic Project Structure
+# Collections Project
+## Collections Project Structure
 
 *Default Structure for A Basic Project*
 
 **Java 8**
 
 * Maven
-* JUnit
+* TestNG
+* MySQLL
+* Log4j
+* Apache
 
 Java Project for SQA Boot Camp Program. 
 
