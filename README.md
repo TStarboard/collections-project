@@ -1,7 +1,7 @@
 # Collections Project
 ## Collections Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Collections Project*
 
 **Java 8**
 
